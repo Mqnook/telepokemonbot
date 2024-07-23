@@ -1,2 +1,2 @@
 # telepokemonbot
-bot for telegram with pokemons
+telegram bot where you can play with other people in group in pokemon, with commands: /go /attack /info 
